@@ -40,3 +40,15 @@ A Java-based Student Management System developed as a Computer Science project.
 ## Author
 
 Fazal
+## Sample Output
+
+```text
+Enter student name: Rahul
+Enter student age: 20
+Enter student marks: 85
+
+Student Details
+Name: Rahul
+Age: 20
+Marks: 85
+Grade: B
